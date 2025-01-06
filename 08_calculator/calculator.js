@@ -38,7 +38,6 @@ const factorial = function(num) {
   return total;
 };
 
-console.log(power(2, 3));
 
 // Do not edit below this line
 module.exports = {
